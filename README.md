@@ -1,5 +1,5 @@
 # Stock-market-forecasting-using-predictive-analysis
-Machine learning model that predicts the stock market prices given a hstorical time-series data set.
+Machine learning model that predicts the stock market prices given a historical time-series data set.
 
 ## Prerequisites
 1: Install `sklearn` package using `pip install sklearn` command. \
